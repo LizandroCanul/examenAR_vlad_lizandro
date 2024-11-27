@@ -1,0 +1,14 @@
+C:\Users\lizan\Desktop\Horario mundial\bin\Debug\net8.0\Horario mundial.exe
+C:\Users\lizan\Desktop\Horario mundial\bin\Debug\net8.0\Horario mundial.deps.json
+C:\Users\lizan\Desktop\Horario mundial\bin\Debug\net8.0\Horario mundial.runtimeconfig.json
+C:\Users\lizan\Desktop\Horario mundial\bin\Debug\net8.0\Horario mundial.dll
+C:\Users\lizan\Desktop\Horario mundial\bin\Debug\net8.0\Horario mundial.pdb
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.AssemblyInfoInputs.cache
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.AssemblyInfo.cs
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.csproj.CoreCompileInputs.cache
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.dll
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\refint\Horario mundial.dll
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.pdb
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\Horario mundial.genruntimeconfig.cache
+C:\Users\lizan\Desktop\Horario mundial\obj\Debug\net8.0\ref\Horario mundial.dll
